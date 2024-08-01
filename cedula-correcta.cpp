@@ -1,5 +1,7 @@
 /*
-
+Nombre: Nayeli Cruz
+tema: crear una Cedula
+fecha:29/7/2024
 */
 #include<iostream>
 using namespace std;
